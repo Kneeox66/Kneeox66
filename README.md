@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm KNeOX66</h1>
 <h3 align="center">Cybersecurity enthusiast!!</h3>
-add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/UkyTfw5BXczvkr7j6")
 - I am learning **Learning Go for now 🙂**
 
 - Fun fact **Not something special**
